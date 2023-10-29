@@ -18,6 +18,7 @@ public class StringSplit_Replace {
 
 	        String outputString = outputBuilder.toString();
 	        System.out.println("Output String: " + outputString);
+	        System.out.println("update");
 	    }
 
 	    // Function to transform a single part
